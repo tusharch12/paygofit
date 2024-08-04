@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "968189749436",
+    "project_id": "paygo-6350f",
+    "storage_bucket": "paygo-6350f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968189749436:android:8e2c9e227221e9f7a348b9",
+        "android_client_info": {
+          "package_name": "com.example.paygofit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIbKnoUVtt7gT9WAxUNSrWgo_sbsNm268"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
